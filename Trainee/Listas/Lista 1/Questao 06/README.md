@@ -1,0 +1,1 @@
+Escreva uma função que receba um número (de 1 a 10) e retorne dois arrays: o primeiro contendo a sequência de números de 1 até o número fornecido à função, e o segundo contendo os fatoriais dos números ímpares dessa lista.
