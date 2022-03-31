@@ -13,11 +13,10 @@ if numero < 2
     puts"Não foi possível encontrar um número primo"
 else
     while numero >= 2
-        if eprimo(numero) == true
-            maiorprimo = numero
+        if eprimo(numero)
             break
         end
         numero -= 1
     end
-    p maiorprimo
+    p numero
 end
